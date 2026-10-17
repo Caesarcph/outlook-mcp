@@ -1,0 +1,7 @@
+# Personal settings (mailbox addresses, filter domains)
+config.json
+
+# Python / uv
+.venv/
+__pycache__/
+*.pyc

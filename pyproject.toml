@@ -1,0 +1,9 @@
+﻿[project]
+name = "outlook-mcp"
+version = "0.1.0"
+description = "Read-only MCP server for classic Outlook on Windows (via COM)"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp>=2.3,<3",
+    "pywin32>=306",
+]

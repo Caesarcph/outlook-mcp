@@ -1,0 +1,10 @@
+{
+  "mailboxes": [
+    {"label": "Work", "folder": "inbox"},
+    {"label": "School", "folder": "you@school.edu/inbox"}
+  ],
+  "notes": "Optional free text for Claude, e.g. which other mail tools handle your other accounts.",
+  "keep_domains": ["school.edu", "company.com"],
+  "block_domains": ["newsletter.example.com"],
+  "promo_keywords": ["unsubscribe", "newsletter", "% off", "sale", "deal", "webinar", "promo"]
+}
